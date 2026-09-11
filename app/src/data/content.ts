@@ -10,7 +10,7 @@ export const site = {
   name: 'Davis Bahati',
   role: 'Engineer · Inventor · Fabricator',
   location: 'Utawala, Nairobi, Kenya',
-  email: 'masatrevis@gmail.com',
+  email: 'goodfrydy6@gmail.com',
   emailAlt: 'brixtonkenya@gmail.com',
   phone: '+254 748 844 255',
   phoneAlt: '+254 710 338 531',
